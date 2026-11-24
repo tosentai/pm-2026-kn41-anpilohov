@@ -1,1 +1,6 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Викладач-замовник курсу УП/Agile,Кафедра управління проєктами,high,high,supporter,manage_closely,PM
+ST-02,Завідувач кафедри (спонсор бюджету),Кафедра управління проєктами,low,high,neutral,keep_satisfied,PM
+ST-03,Студенти навчальної групи (до 25 осіб),Академія,low,low,neutral,monitor,BA
+ST-04,Служба ІТ-інфраструктури та безпеки,Академія,low,high,blocker,keep_satisfied,PM
+ST-05,Викладач суміжної кафедри Agile,Суміжна кафедра,high,low,supporter,keep_informed,BA

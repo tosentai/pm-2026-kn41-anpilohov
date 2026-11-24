@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V02 |
 | Трекер | https://trello.com/b/UnnBCzMZ/planning-poker-pm-2026-v02 (Trello) |
 | Дошка | https://trello.com/b/UnnBCzMZ/planning-poker-pm-2026-v02 (Trello) |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | UAH (гривня) |
+| Contingency, % | 15% |
 
 ## Як влаштований репозиторій
 

@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,200,580,https://jobs.dou.ua/salaries/,Середня погодинна ставка PM рівня Middle в Україні з урахуванням 50% зайнятості
+BA,0.25,100,500,https://jobs.dou.ua/salaries/,Ставка бізнес-аналітика рівня Middle- (25% зайнятості на специфікації)
+Dev,1.0,400,560,https://jobs.dou.ua/salaries/,Full-stack розробник рівня Middle — основна продуктивна ставка 100%
+QA,0.5,200,440,https://jobs.dou.ua/salaries/,Інженер із тестування рівня Middle- на неповну зайнятість 50%

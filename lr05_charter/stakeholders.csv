@@ -4,3 +4,7 @@ ST-02,Завідувач кафедри (спонсор бюджету),Кафе
 ST-03,Студенти навчальної групи (до 25 осіб),Академія,low,low,neutral,monitor,BA
 ST-04,Служба ІТ-інфраструктури та безпеки,Академія,low,high,blocker,keep_satisfied,PM
 ST-05,Викладач суміжної кафедри Agile,Суміжна кафедра,high,low,supporter,keep_informed,BA
+ST-06,Антон (PM 50%),Команда проєкту V02,high,high,supporter,manage_closely,PM
+ST-07,Марія (BA 25%),Команда проєкту V02,high,low,supporter,keep_informed,PM
+ST-08,Олександр (Dev 100%),Команда проєкту V02,high,low,supporter,keep_informed,PM
+ST-09,Ірина (QA 50%),Команда проєкту V02,high,low,supporter,keep_informed,PM
